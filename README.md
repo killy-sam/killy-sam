@@ -21,6 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robel-milashu&show_icons=true&locale=en&layout=compact" alt="killy-sam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=killy-sam&show_icons=true&locale=en" alt="killy-sam" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=killy-sam&" alt="killy-sam" /></p>
