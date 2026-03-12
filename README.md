@@ -7,7 +7,7 @@
 
 <!-- - 📝 I regularly write articles on [medium.com](medium.com) -->
 
-- 💬 Ask me about **AngularJS, Unity , NodeJS**
+- 💬 Ask me about **System Design and architecture**
 
 - 📫 How to reach me **clintontilahun@gmail.com**
 
