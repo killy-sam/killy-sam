@@ -7,7 +7,7 @@
 
 <!-- - 📝 I regularly write articles on [medium.com](medium.com) -->
 
-- 💬 Ask me about **System Design and architecture**
+- 💬 Ask me about **System Design and Architecture**
 
 - 📫 How to reach me **clintontilahun@gmail.com**
 
