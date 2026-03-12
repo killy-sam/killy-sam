@@ -12,9 +12,11 @@
 - 📫 How to reach me **clintontilahun@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+</br>
 <p align="left">
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 </p>
-
+</br>
+</br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robel-milashu&show_icons=true&locale=en&layout=compact" alt="killy-sam" /></p>
 
